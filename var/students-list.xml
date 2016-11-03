@@ -14,5 +14,12 @@
         <github>Fiona84</github>
         <group>Teacher</group>
     </student>
+    <student>
+        <firstname>Klaudia</firstname>
+        <lastname>Rosiek</lastname>
+        <email>rosiek.klaudia@wp.pl</email>
+        <github>KlaudiaRos</github>
+        <group>KrDzIs3012Si</group>
+    </student>
 </students>
 
