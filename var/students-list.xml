@@ -14,5 +14,13 @@
         <github>Fiona84</github>
         <group>Teacher</group>
     </student>
+	<student>
+        <firstname>Akeksandra</firstname>
+        <lastname>Niezgoda</lastname>
+        <email>olka.en@gmail.com</email>
+        <github>s187597</github>
+        <group>student</group>
+    </student>
+	
 </students>
 
