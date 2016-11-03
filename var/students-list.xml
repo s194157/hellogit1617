@@ -14,5 +14,12 @@
         <github>Fiona84</github>
         <group>Teacher</group>
     </student>
+	<student>
+        <firstname>Grzegorz</firstname>
+        <lastname>Tłustowski</lastname>
+        <email>greg94@o2.pl</email>
+        <github>Grzesiek944</github>
+        <group>student</group>
+    </student>
 </students>
 
