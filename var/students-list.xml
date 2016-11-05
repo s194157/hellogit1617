@@ -84,5 +84,13 @@
         <github>Johnythatsme</github>
         <group>Student</group>
     </student>
+    <student>
+        <firstname>Karol</firstname>
+        <lastname>Juszynski</lastname>
+        <email>karol.juszynski@gmail.com</email>
+        <github>bolecze</github>
+        <group>KrDZIs3012Si</group>
+    </student>
 </students>
+
 
