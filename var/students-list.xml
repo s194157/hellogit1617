@@ -105,6 +105,13 @@
         <github>s187597</github>
         <group>student</group>
     </student>
+    <student>
+        <firstname>Michał</firstname>
+        <lastname>Szarek</lastname>
+        <email>michal05v@gmail.com</email>
+        <github>https://github.com/Szajrii</github>
+        <group>KrDzIS3011SI</group>
+    </student>
 </students>
 
 
