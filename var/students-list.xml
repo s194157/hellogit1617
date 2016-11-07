@@ -105,6 +105,13 @@
         <github>s187597</github>
         <group>student</group>
     </student>
+	<student>
+        <firstname>Krzysztof</firstname>
+        <lastname>Wiecheć</lastname>
+        <email>krzysztof.r.wiechec@gmail.com</email>
+        <github>KWiechec</github>
+        <group>KrDzIS3011SI</group>
+    </student>
 </students>
 
 
