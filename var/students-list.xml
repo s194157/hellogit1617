@@ -105,6 +105,13 @@
         <github>s187597</github>
         <group>student</group>
     </student>
+	<student>
+        <firstname>Miłosz</firstname>
+        <lastname>Zalewski</lastname>
+        <email>cris1326@wp.pl</email>
+        <github>luisremos</github>
+        <group>student</group>
+    </student>
 </students>
 
 
