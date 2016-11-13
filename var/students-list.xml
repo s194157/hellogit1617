@@ -105,7 +105,6 @@
         <github>s187597</github>
         <group>student</group>
     </student>
-<<<<<<< HEAD
 	<student>
         <firstname>Krzysztof</firstname>
         <lastname>Wiecheć</lastname>
@@ -154,6 +153,13 @@
         <email>rafcio.gajda@gmail.com</email>
         <github>rafciobb</github>
         <group>student</group>
+    </student>
+    <student>
+        <firstname>Agnieszka</firstname>
+        <lastname>Chlebda</lastname>
+        <email>chlebdaaga@gmail.com</email>
+        <github>agnesch</github>
+        <group>KrDzIs3011Si</group>
     </student>
 </students>
 
