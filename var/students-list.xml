@@ -119,6 +119,13 @@
         <github>luisremos</github>
         <group>student</group>
     </student>
+    <student>
+        <firstname>Anh</firstname>
+        <lastname>Nguyen</lastname>
+        <email>anh.ngn@outlook.com</email>
+        <github>s174415</github>
+        <group>student</group>
+    </student>
 </students>
 
 
